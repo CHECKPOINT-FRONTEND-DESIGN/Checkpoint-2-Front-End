@@ -1,0 +1,10 @@
+Integrantes do projeto:
+
+Guilherme Ruiz Costa (RM: 563236)
+Guilherme Moura Gama (RM: 562162)
+João Batista Lima Neto (RM: 563426)
+Júlio César Augusto Vieira (RM: 563366)
+
+
+Link do repositório do GitHub:
+https://github.com/CHECKPOINT-FRONTEND-DESIGN/Checkpoint-2-Front-End.git
